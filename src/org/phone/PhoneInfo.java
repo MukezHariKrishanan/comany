@@ -2,6 +2,11 @@ package org.phone;
 
 public class PhoneInfo {
 
+	private void nandhu() {
+		// TODO Auto-generated method stub
+		System.out.println("test");
+	}
+
 	private void phoneName() {
 		System.out.println("Iphone");
 
