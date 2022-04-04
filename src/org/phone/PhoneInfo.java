@@ -1,8 +1,13 @@
 package org.phone;
 
 public class PhoneInfo {
-
+	
 	private void nandhu() {
+		// TODO Auto-generated method stub
+System.out.println("munthrikotta");
+	}
+
+	private void nandhu1() {
 		// TODO Auto-generated method stub
 		System.out.println("test");
 	}
