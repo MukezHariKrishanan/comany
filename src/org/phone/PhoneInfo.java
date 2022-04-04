@@ -7,6 +7,11 @@ public class PhoneInfo {
 System.out.println("munthrikotta");
 	}
 
+	private void nandhu1() {
+		// TODO Auto-generated method stub
+		System.out.println("test");
+	}
+
 	private void phoneName() {
 		System.out.println("Iphone");
 
